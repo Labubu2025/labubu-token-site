@@ -8,7 +8,8 @@ export default function Home() {
       </Head>
 
       <section style={{ textAlign: "center", padding: "60px 20px" }}>
-        <img src="/LABUBU_logo_final_transparent_512x512.png" alt="LABUBU" width="150" />
+        <img src="/LABUBU_hero.png" alt="LABUBU hero" style={{ width: "100%", maxWidth: "800px", borderRadius: "12px", marginBottom: "20px" }} />
+
         <h1 style={{ fontSize: "3rem", marginTop: "1rem" }}>LABUBU</h1>
         <p style={{ fontSize: "1.5rem", marginBottom: "1.5rem" }}>To The Moon 🚀</p>
         <a
